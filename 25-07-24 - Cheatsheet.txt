@@ -1,0 +1,19 @@
+// to declare a variable that CAN change in value, we use let
+let variableThatCanChange = "a value"
+variableThatCanChange = "a changed value"
+
+// to declare a variable that CANNOT change value, we use const
+const variableThatWontChange = "constant value!"
+
+// to store text, we use a string variable
+let myName : string = "Mr. Rudman"
+// to store numbers, we use a number variable
+let myAge : number = 23
+// to store true/false values, we use a boolean variable
+let currentlyEmployed : boolean = true
+
+// to print out something, we use console.log()
+console.log("This is me writing out something to the console!")
+// we can also log out variables at the same time, using a +
+console.log("The value of this variable is: " + currentlyEmployed)
+

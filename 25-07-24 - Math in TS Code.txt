@@ -1,0 +1,20 @@
+// we are going to do some basic math operations
+// declaring 2 variables to hold the numbers we are going to use (let -> the value can change)
+let number1 = 7
+let number2 = 5
+
+// lets start off with addition
+let answer = number1 + number2
+console.log("The answer is: " + answer)
+
+answer = number1 - number2
+console.log("The answer is: " + answer)
+
+// multiply the numbers, and print out the answer
+// divide the numbers, and print out the answer
+answer = number1 * number2
+console.log("The answer is: " + answer)
+
+answer = number1 / number2
+console.log("The answer is: " + answer)
+

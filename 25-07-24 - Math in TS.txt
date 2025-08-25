@@ -1,0 +1,15 @@
+Write code that does the following in TypeScript:
+- Declares 2 variables, length and width
+- Calculates the perimeter of a rectangle, and prints it out (all the sides added together)
+- Calculates the area of a rectangle, and prints it out (length x width)
+
+Be sure to:
+- Use types for your variables
+- The values will NOT change, so use the correct way to declare them
+- Add basic comments explaining your code
+
+BONUS POINTS (try once you finish the above task)
+
+You now have 3 variables, length, width, and height.
+- Calculate the volume of the rectangle (length * width * height)
+- Do research on how to calculate the TSA (Total Surface Area) of the object, and print it out
